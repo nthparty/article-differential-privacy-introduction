@@ -1,2 +1,2 @@
 # article-differential-privacy-introduction
-An introduction to basic differential privacy concepts via a digital advertising use case.
+An introduction to the basic concepts and features associated with differential privacy that leverages an example use case drawn from the advertising technology domain.
